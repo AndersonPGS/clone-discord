@@ -19,25 +19,25 @@ export default createGlobalStyle`
     }
 
     :root {
-    --primary: #36393f;
-    --secondary: #2f3136;
-    --tertiary: rgb(32,34,37);
-    --quaternary: #292b2f;
-    --quinary: #393d42;
+    --primary: #171A1F; //#212429
+    --secondary: #171A1F;
+    --tertiary: rgb(19,21,25);
+    --quaternary: #171A1F;
+    --quinary: #22262E;
     --senary: #828386;
  
     --white: #fff;
     --gray: #8a8c90;
-    --chat-input: rgb(64,68,75);
+    --chat-input: #1B1F25;
     --symbol: #74777a;
  
     --notification: #f84a4b;
-    --discord: #6e86d6;
-    --mention-detail: #f9a839;
-    --mention-message: #413f3f;
+    --discord: #58D25D;
+    --mention-detail: #58D25D;
+    --mention-message: rgba(88, 210, 93, .05);
  
     --link: #5d80d6;
  
-    --rocketseat: #6633cc;
+    --main: #58D25D ;
   }
 `;

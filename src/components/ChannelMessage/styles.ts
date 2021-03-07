@@ -25,7 +25,7 @@ export const Avatar = styled.div`
     width: 40px;
     height: 40px;
 
-    background-color: var(--secondary);
+    background-color: var(--quinary);
     border-radius: 50%;
 
     &.bot {

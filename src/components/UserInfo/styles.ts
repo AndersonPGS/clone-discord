@@ -24,7 +24,7 @@ export const Avatar = styled.div`
 
     border-radius: 50%;
 
-    background-color: var(--gray);
+    background-color: var(--quinary);
 `;
 
 export const UserData = styled.div`

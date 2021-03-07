@@ -14,7 +14,7 @@ export const Button = styled.button<Props>`
 
     margin-bottom: 8px;
 
-    background-color: ${(props) => props.isHome ? 'var(--rocketseat)' : 'var(--primary)'};
+    background-color: ${(props) => props.isHome ? 'var(--main)' : 'var(--primary)'};
 
     position: relative;
     cursor: pointer;
@@ -68,6 +68,6 @@ export const Button = styled.button<Props>`
 
     &.active, &:hover {
         border-radius: 16px;
-        background-color: ${props => props.isHome ? 'var(--rocketseat)' : 'var(--discord)' }
+        background-color: ${props => props.isHome ? 'var(--main)' : 'var(--discord)' }
     }
 `;

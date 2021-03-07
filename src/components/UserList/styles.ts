@@ -50,7 +50,7 @@ export const User = styled.div`
     transition: .2s;
 
     &:hover {
-        background: rgba(255, 255, 255, 0.1);
+        background: var(--quinary);
 
         > strong.offline {
             opacity: 0.7;
@@ -93,7 +93,7 @@ export const Avatar = styled.div`
     width: 32px;
     height: 32px;
 
-    background-color: var(--primary);
+    background-color: var(--quinary);
     border-radius: 50%;
 
     &.bot {
