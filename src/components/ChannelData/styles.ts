@@ -19,7 +19,7 @@ export const Messages = styled.div`
     display: flex;
     flex-direction: column;
 
-    max-height: calc(100vh - 46px - 68px);
+    max-height: calc(100vh - 46px - 69px);
     overflow-y: scroll;
 
     ::-webkit-scrollbar {
@@ -45,6 +45,7 @@ export const InputWrapper = styled.div`
 export const Input = styled.input`
     width: 100%;
     height: 44px;
+
 
     padding: 0 10px 0 57px;
     border-radius: 7px;

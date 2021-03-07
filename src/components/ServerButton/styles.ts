@@ -8,8 +8,8 @@ export const Button = styled.button<Props>`
     justify-content: center;
     flex-shrink: 0;
 
-    width: 48px;
-    height: 48px;
+    width: 40px;
+    height: 40px;
     border-radius: 50%;
 
     margin-bottom: 8px;
@@ -29,7 +29,7 @@ export const Button = styled.button<Props>`
         height: 9px;
 
         position: absolute;
-        left: -17px;
+        left: -11px;
         top: calc(50% - 4.5px);
 
         background-color: var(--white);
@@ -42,7 +42,7 @@ export const Button = styled.button<Props>`
     &::after {
         background-color: var(--notification);
         width: auto;
-        height: 16px;
+        height: 14px;
 
         padding: 0 4px;
 
@@ -54,7 +54,7 @@ export const Button = styled.button<Props>`
         border: 4px solid var(--quaternary);
 
         text-align: right;
-        font-size: 13px;
+        font-size: 12px;
         font-weight: bold;
         color: var(--white);
 
