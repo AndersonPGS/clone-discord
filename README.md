@@ -1,46 +1,36 @@
-# Getting Started with Create React App
+<h1 align="center"><a href="https://andersonpgs.vercel.app/">Disclone</a></h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## A clone of Discord Web but with a custom theme
 
-## Available Scripts
+This project was created in React JS with TypeScript and Styled Components.
 
-In the project directory, you can run:
+## 📃 About Project
 
-### `yarn start`
+This project was created by <a href="https://github.com/AndersonPGS" target="_blank">Anderson Paiva</a> based on the <a href="https://github.com/rocketseat-content/youtube-clone-discord" target="_blank">Rocketseat Discord Clone</a> project. However with some changes being the main one the change of the Theme that is no longer the official Discord but a customized theme inspired on the <a href="https://betterdiscordlibrary.com/themes/MinimalCord" target="_blank">MinimalCord Theme</a>.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## 😁 Creator
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### Anderson Paiva
+ <a href="https://www.linkedin.com/in/andersonpgs/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-informational?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andersonpgs/"/></a>
+    <a href="mailto:andersonpgs.contato@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/-Hotmail-informational?style=flat-square&logo=Windows&logoColor=white&link=mailto:andersonpgs.contato@hotmail.com"/></a>
+    <a href="https://discord.gg/BNWDHq" target="_blank"><img src="https://img.shields.io/badge/-Anderson%20Paiva%230221-informational?style=flat-square&logo=Discord&logoColor=white&link=https://discord.gg/BNWDHq"/></a>
 
-### `yarn test`
+## 💻 Instalation 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Clone the repository\
+ `git clone https://github.com/AndersonPGS/clone-discord.git`
 
-### `yarn build`
+2. Install the dependencies\
+ `yarn`
+ 
+ 3. Run the project\
+ `yarn start`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🔥 Result
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![Disclone photo example](https://raw.githubusercontent.com/AndersonPGS/clone-discord/master/discord-png.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+**Note: the colors of the gif are not with the actual colors of the theme due to the recording**
 
-### `yarn eject`
+![Disclone gif example](https://raw.githubusercontent.com/AndersonPGS/clone-discord/master/disclone-gif.gif)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
