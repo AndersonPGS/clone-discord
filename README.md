@@ -1,4 +1,4 @@
-<h1 align="center">Disclone</h1>
+<h1 align="center"><a href="https://minimal-disclone.netlify.app/">Disclone</a></h1>
 
 ## 📃 About Project
 <strong>A clone of Discord Web but with a custom theme</strong>
